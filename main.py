@@ -181,7 +181,7 @@ while running:
     # Обновление
     all_sprites.update()
 
-    # for cell in cells_list:  # TODO ОТЛАДКА: мины на поле
+    # for cell in cells_list:  # TODO показать мины на поле
     #     if mined_cells.count(cell.cell_id):
     #         cell.image = img_cells_dict["checked_cell"]
 
