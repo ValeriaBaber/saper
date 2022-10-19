@@ -5,3 +5,4 @@ With the mouse you can also mark cells as dangerous, after which the character w
 The goal of the game is to reach the blue cell at the bottom right side of the playing field.
 
 in the main.py file in the variables cellsNumber_x, cellsNumber_y, difficulty you can change the size of the playing field and the number of mined cells
+
